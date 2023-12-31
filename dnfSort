@@ -1,3 +1,4 @@
+//dutch national flag algorithm
 #include<iostream>
 using namespace std;
 void swap(int arr[],int i,int j){
